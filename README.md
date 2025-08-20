@@ -1,5 +1,5 @@
-# LeagueStats
-
-Put down your summoner name and run the program to get your Ranked Tier and Win rate.
-
-(OUTDATED due to Riot API changes)
+# lolstat (League of Legends Statistics)
+### Description
+API calls to Riot-API to summon your summoner stats. 
+### Purpose
+Because Blitz.gg is messing with my League of Legends game. This is the reason why I will be updating this repository to be compatible with current Riot-API.
