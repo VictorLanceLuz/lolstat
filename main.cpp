@@ -1,3 +1,6 @@
 #include <iostream>
 
-size_t writeCallback()
+int main() {
+    std::cout << __cplusplus << std::endl;
+    return 0;
+}
