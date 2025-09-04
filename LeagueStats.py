@@ -10,7 +10,7 @@ import requests
 def main():
     region = "NA1"
     summonerName = "Vertlance"
-    APIKey = "RGAPI-84d4b3a6-10a1-4c58-9a68-1feae8bea957"
+    APIKey = "Enter your API key here"
 
     patch = "6.24.1"
 
