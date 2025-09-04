@@ -1,5 +1,9 @@
 #Author: Victor Luz
 #Date: Tue Dec 11 2018
+"""
+Description: This script retrieves and displays League of Legends statistics for a given summoner.
+However, the implementation is outdated and may not work with the current Riot Games API.
+"""
 
 import requests
 
@@ -7,8 +11,7 @@ def main():
     region = "NA1"
     summonerName = "Vertlance"
     APIKey = "RGAPI-84d4b3a6-10a1-4c58-9a68-1feae8bea957"
-    #Proxy for Intel Corporation
-    proxy = {"https" : "http://proxy-chain.intel.com:911"}
+
     patch = "6.24.1"
 
 
