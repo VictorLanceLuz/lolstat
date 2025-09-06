@@ -1,9 +1,6 @@
 #Author: Victor Luz
 #Date: Tue Dec 11 2018
-"""
-Description: This script retrieves and displays League of Legends statistics for a given summoner.
-However, the implementation is outdated and may not work with the current Riot Games API.
-"""
+
 
 import requests
 
