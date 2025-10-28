@@ -13,9 +13,7 @@ Date: 2025-09-05
 
 int main() {
     std::cout << __cplusplus << std::endl;
-
-
-
+    std::cout << "Test" << std::endl;
 
     return 0;
 }
